@@ -2,9 +2,23 @@
     text-align: center;
     color: yellow;
 }
+
 *{
     background-color:RGB(192,192,192);
 }
-a:hover{
-    background-color: blue;
+a{
+    text-align: center;
+}
+footer, a:hover{
+   color: black;
+  
+}
+footer,a{
+    color: yellow;
+}
+p{
+    text-align: center;
+}
+#followMe{
+    
 }
